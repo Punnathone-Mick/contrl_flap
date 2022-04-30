@@ -1,10 +1,12 @@
 # contrl_flap
-Manufacturing for Product Prototype Realization
-2103307
-2-2021
+
+#Manufacturing for Product Prototype Realization
+#2103307
+#2-2021
 
 Source code for airfoil project.
-NACA-2412
+
+airfoil : NACA-2412
 
 Device
 1. Arduino board
@@ -17,4 +19,4 @@ step to using.
 4. using Serial port to input angle 
 
 Causion
-Can aduject flap angle between 0-45 degree only.
+Can adjust flap angle between 0-45 degree only.
