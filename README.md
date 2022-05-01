@@ -21,4 +21,6 @@ step to using.
 4. using Serial port to input angle 
 
 Causion
-Can adjust flap angle between 0-45 degree only.
+
+1. Can adjust flap angle between 0-45 degree only.
+2. Servo Using : pin 9 , 5 V , GND
